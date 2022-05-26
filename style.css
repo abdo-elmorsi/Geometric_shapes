@@ -34,3 +34,7 @@ h1 img {
     cursor: pointer;
     float: left;
 }
+
+ul li {
+    font-weight: bold;
+}
